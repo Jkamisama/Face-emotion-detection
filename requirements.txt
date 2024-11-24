@@ -232,3 +232,4 @@ tzdata==2024.2
 urllib3==2.0.7
 Werkzeug==3.0.1
 wrapt==1.14.1
+gunicorn==23.0.0
